@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: #aa3cc5;
+    color: white;
+    font-family: helvetica;
+    font-size: x-large;
+}
+
+h1 {
+    margin-top: 100px;
+}
+
+ul {
+    display: inline-block;
+    cursor: move;
+    text-align: left;
+    width: 300px;
+    max-width: 100%;
+}
+
+li {
+    color: lightgray;
+}
+
+li:first-child {
+    font-size: 130%;
+    color: white;
+}
+
+input[type='submit'] {
+    background-color: #5900ff;
+    border: 0;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+}
