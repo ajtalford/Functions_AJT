@@ -2,4 +2,4 @@
 ## Functions Day1 RPS_AJT
 ## Functions Day2 This_AJT 
 
-[Todo](../blob/master/LICENSE)
+[Todo](jQuery to-do/index.html)
